@@ -40,7 +40,7 @@ How do you gift someone Bitcoin if you don’t know their wallet address? If you
 
 ## LINKS
 - Website: https://btcgiftshop.xyz
-- GitHub - Langing: https://github.com/btcgiftshop/btcgiftshop-landing
+- GitHub - Landing: https://github.com/btcgiftshop/btcgiftshop-landing
 - GitHub - Application: https://github.com/btcgiftshop/btcgiftshop-app
 - GitHub - Admin/Back-end: https://github.com/btcgiftshop/btcgiftshop-admin
 - Demo App: https://btcgiftshop-app.vercel.app
