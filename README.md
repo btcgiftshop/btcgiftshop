@@ -12,10 +12,12 @@
     Easily gift valuable assets on the Bitcoin network by simply creating and sharing a link, without the need for blockchain expertise.
   </h3>
   <br />
-  <h3>Powered By:</h3>
-  <img src="./assets/btcsl-logo.png" alt="BTCSL" height="50" style="padding:5px">
-  <img src="./assets/bob-logo.svg" alt="BOB" height="50" style="padding:5px">
-  <img src="./assets/dynamic-logo.svg" alt="Dynamic" height="50" style="padding:5px">
+  <h3 align="center">Powered By:</h3>
+  <img src="./assets/btcsl-logo.png" alt="BTCSL" height="50">
+  <img src="./assets/blank.png" width="25">
+  <img src="./assets/bob-logo.svg" alt="BOB" height="50">
+  <img src="./assets/blank.png" width="25">
+  <img src="./assets/dynamic-logo.svg" alt="Dynamic" height="50" width="180">
   <br />
   <br />
   <div>
