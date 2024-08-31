@@ -7,7 +7,8 @@
   <br />
   <h3>
     Send Bitcoin gifts to your family, friends, and the people you love and care about.
-  
+    <br />
+    <br />
     Easily gift valuable assets on the Bitcoin network by simply creating and sharing a link, without the need for blockchain expertise.
   </h3>
   <br />
